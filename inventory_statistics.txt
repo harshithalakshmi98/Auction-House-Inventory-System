@@ -1,0 +1,41 @@
+========================================
+AUCTION HOUSE INVENTORY STATISTICS
+========================================
+
+Total Items in Inventory: 15
+Unique Owners Recorded: 12
+
+Oldest Item (low estimate 60):
+  Gold from Rome (SEST 200.00) (£11800.00)
+  Middle Year Estimate: 68
+
+Newest Item (high estimate 2020):
+  Furniture stool by Design Within Reach (£150.00)
+  Middle Year Estimate: 2020
+
+Most Expensive Item (£42000.00):
+  Sculpture of Athena in Bronze (£42000.00)
+
+Least Expensive Item (£150.00):
+  Furniture stool by Design Within Reach (£150.00)
+
+Price Statistics:
+  Average Price: £7160.67
+  Standard Deviation: £10435.89
+
+Condition Breakdown:
+  mint: 8 items
+  restored: 6 items
+  needs restoring: 1 items
+
+Top 3 Year Estimate Spreads:
+  Furniture armchair by George Hepplewhite (£950.00)
+    Low/High: 1870/1890 (spread 20)
+  Sculpture of Athena in Bronze (£42000.00)
+    Low/High: 430/450 (spread 20)
+  Silver from Edinburgh (GBP 1.00) (£2200.00)
+    Low/High: 1690/1705 (spread 15)
+
+========================================
+Report generated on: Wed Nov 26 12:37:59 GMT+04:00 2025
+========================================
